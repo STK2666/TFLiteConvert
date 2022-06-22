@@ -1,0 +1,26 @@
+QWidget {
+    background-color:linen;
+}
+
+QListWidget {
+    background-color:antiquewhite;
+    border:2px solid lightgray;
+}
+
+QPushButton {
+    color:chocolate;
+    font: 18px;
+    padding:4px;
+    background-color:lightyellow;
+    border:2px groove lightslategray;
+    border-radius:2px;
+}
+
+QTextEdit {
+    background-color: antiquewhite;
+    border:2px solid lightgray;
+}
+
+QLabel {
+    font: 20px;
+}
